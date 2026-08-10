@@ -44,15 +44,15 @@ I'm a data scientist background in Biology. I am interested in growing my unders
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=ro-rro&show_icons=true&theme=default&hide_border=true&count_private=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOro-rro&layout=compact&theme=default&hide_border=true" />
+<img height="95" src="https://github-readme-stats.vercel.app/api?username=ro-rro&show_icons=true&theme=default&hide_border=true&count_private=true" />
+<img height="95" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOro-rro&layout=compact&theme=default&hide_border=true" />
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=ro-rro&theme=default&hide_border=true" />
 
 </div>
 
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ro-rro&theme=minimal&hide_border=true" width="100%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ro-rro&theme=minimal&hide_border=false" width="75%"
 </div>
 
 ---
@@ -73,7 +73,3 @@ Short one-line description of the problem solved and outcome/impact.
 <div align="center">
 
 *Open to collaborations and interesting problems in data science, Machine Learning, and Bioinformatics.*
-
-
-- 😄 Pronouns: ...
-- 
