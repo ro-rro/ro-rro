@@ -1,16 +1,80 @@
-## Hi there 👋
 
-<!--
-**ro-rro/ro-rro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<div align="center">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
+# Hi, I’m Rosie👋
+
+### Data Scientist / ML Engineer turning data into decisions
+
+[![LinkedIn]([https://www.linkedin.com/in/rosie-navarro-293a72390/])
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white)]([https://your-portfolio.com](https://rorro.store))
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:rosinava9559@gmail.com)
+
+
+</div>
+
+---
+
+## About Me
+
+I'm a data scientist background in Biology. I am interested in growing my understanding in Bioinformatics. 
+
+- 🔭 Currently working on: Video Game Project
+- 🌱 Currently learning: Machine Learning
+
+---
+
+## Tech Stack
+
+**Languages & Core Tools**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
+
+**ML / Data**
+
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+
+
+
+## GitHub Stats
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&theme=default&hide_border=true&count_private=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-USERNAME&layout=compact&theme=default&hide_border=true" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR-USERNAME&theme=default&hide_border=true" />
+
+</div>
+
+<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR-USERNAME&theme=minimal&hide_border=true" width="100%" />
+</div>
+
+---
+
+## Featured Projects
+
+### [Project Name](https://github.com/ro-rro/repo-1)
+Short one-line description of the problem solved and outcome/impact (e.g. "Model X, improved forecast accuracy by 18%").
+`Python` `TensorFlow` `AWS`
+
+### [Project Name](https://github.com/ro-rro/repo-2)
+Short one-line description of the problem solved and outcome/impact.
+`Python` `scikit-learn` `Docker`
+
+
+---
+
+<div align="center">
+
+*Open to collaborations and interesting problems in data science, Machine Learning, and Bioinformatics.*
+
+
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
