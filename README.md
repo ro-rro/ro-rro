@@ -63,9 +63,9 @@ I'm a data scientist background in Biology. I am interested in growing my unders
 A Python-based weather app that uses the OpenWeatherMap API to retrieve and display current weather information based on user’s location. 
 `Python` `API Integration` `Loops & Conditional Statements`
 
-### [Project Name](https://github.com/ro-rro/repo-2)
-Short one-line description of the problem solved and outcome/impact.
-`Python` `scikit-learn` `Docker`
+### [Project Name](https://github.com/ro-rro/PythonProject)
+Current and Past Python Coding Assignments. The following are SOME of the skills learned along the way. 
+`Python` `OOP` `Data Validation` `For/While Loops` `JSON Data` `Functions`
 
 
 ---
