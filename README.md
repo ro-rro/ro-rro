@@ -59,9 +59,9 @@ I'm a data scientist background in Biology. I am interested in growing my unders
 
 ## Featured Projects
 
-### [Project Name](https://github.com/ro-rro/repo-1)
-Short one-line description of the problem solved and outcome/impact (e.g. "Model X, improved forecast accuracy by 18%").
-`Python` `TensorFlow` `AWS`
+### [Weather APP]([https://github.com/ro-rro/Weather-App])
+A Python-based weather app that uses the OpenWeatherMap API to retrieve and display current weather information based on user’s location. 
+`Python` `API Integration` `Loops & Conditional Statements`
 
 ### [Project Name](https://github.com/ro-rro/repo-2)
 Short one-line description of the problem solved and outcome/impact.
